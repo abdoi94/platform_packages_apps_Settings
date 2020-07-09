@@ -29,4 +29,7 @@
         <item>com.android.localtransport/.LocalTransport</item>
     </string-array>
 
+
+    <!-- Screen off FOD -->
+    <bool name="config_supportScreenOffFod">false</bool>
 </resources>
